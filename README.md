@@ -16,7 +16,7 @@
 - 📋 **Smart Clipboard Integration**: Automatically detects and reads supported firmware URLs from your clipboard the moment you open the app.
 - ⚡ **Native Download Manager**: Reliable background downloads with real-time progress tracking and error handling.
 - 📂 **Downloads History**: Built-in history manager to track, view, and safely delete downloaded firmware files from your device storage with a single tap.
-- 🔍 **Smart Parsing**: Automatically extracts and formats firmware names (CPH, RMX, P-series) directly from the download URL.
+- 🔍 **Smart Parsing**: Automatically extracts and formats firmware names (CPH, RMX, P-series) directly from the download URL. (idk if it works)
 
 ## 🚀 Installation
 
