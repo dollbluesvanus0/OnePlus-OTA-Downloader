@@ -56,4 +56,4 @@ This repository includes a fully configured **GitHub Actions** workflow for cont
 - **Coroutines** - For asynchronous programming.
 
 ---
-*Built with ❤️ for the Android community.*
+*Built for the Android community.*
